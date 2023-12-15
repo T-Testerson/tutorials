@@ -1,4 +1,4 @@
 
-# This is a basic sample program.
+# This is a basic sample program
 
 print("Hello World!")
